@@ -1,0 +1,17 @@
+# Python compiled files (created automatically when you run scripts)
+__pycache__/
+*.pyc
+
+# Mac system files (junk files often created on Macs)
+.DS_Store
+
+# Virtual Environments (where libraries live - we don't upload these)
+.venv/
+.env/
+
+# IDE settings (VS Code, PyCharm settings)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints (useful if you use Notebooks later)
+.ipynb_checkpoints/
